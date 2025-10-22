@@ -8,20 +8,21 @@ function Project() {
     project: [
       {
         image: webImg1,
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error autem amet labore pariatur dignissimos fugiat!",
+        description: `An interactive electronics shop cart built using React.js!
+This project showcases my frontend development skills with a sleek and user-friendly design.
+The cart updates in real-time as users add or remove items, ensuring a smooth shopping experience.
+It’s fully responsive, offering seamless usability across both mobile and desktop devices.`,
         link: "https://elecronicszone.web.app/",
       },
       {
         image: webImg2,
-        description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Error
-                autem amet labore pariatur dignissimos fugiat!`,
+
+        description: ` A modern coffee ordering web application built with React.js. It features a clean, responsive design and interactive components for a smooth browsing experience. The project includes real-time updates and efficient state management using React hooks. Designed to offer users an intuitive and engaging coffee shop experience.`,
         link: "https://coffee-maky.web.app/",
       },
       {
         image: webImg3,
-        description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Error
-                autem amet labore pariatur dignissimos fugiat!`,
+        description: ` A dynamic food ordering web application built with HTML, CSS, and JavaScript. It features a sleek, responsive design and interactive elements for smooth navigation. The project includes dynamic content updates and showcases efficient use of front-end technologies. Designed to deliver a seamless and engaging user experience.`,
         link: "https://imrankhano1.github.io/FootCart-Using-JavaScript/",
       },
     ],
